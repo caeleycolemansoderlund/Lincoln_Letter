@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abraham Lincoln, Letter to his Partner and Follower William H. Herndon</title>
+                <author>Abraham Lincoln</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    This manuscript is made available by Fondation Martin Bodmer, located in Cologny, Switzerland, 
+                    and has been published online as part of the e-codices – Virtual Manuscript Library of Switzerland. 
+                    Transcribed by Caeley Coleman Söderlund using Transkribus, 2024.
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Cologny</settlement>
+                        <repository>Fondation Martin Bodmer</repository>
+                        <idno type="shelfmark">L-37.1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <author>Abraham Lincoln</author>
+                            <title>Letter to William H. Herndon</title>
+                            <note>
+                                Signed autograph letter written by Abraham Lincoln to his young partner William H. Herndon, 
+                                dated <date when="1848-07-10">July 10, 1848</date>. A handwritten letter consisting of 
+                                4 pages, written on paper (dimensions: 25 x 19.9 cm). The letter reflects Lincoln's 
+                                advice to Herndon as a lesson in political philosophy and includes his thoughts on 
+                                improving oneself every day.
+                            </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <p>
+                                A handwritten letter consisting of 3 pages, written on paper (dimensions: 25 x 19.9 cm).
+                            </p>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surface xml:id="facs_1">
+         <graphic url="Lincoln_image_1.png" width="994px" height="1238px"/>
+            <zone xml:id="line1" ulx="373" uly="143" lrx="779" lry="220"/>
+            <zone xml:id="line2" ulx="98" uly="173" lrx="349" lry="258"/>
+            <zone xml:id="line3" ulx="324" uly="230" lrx="908" lry="315"/>
+            <zone xml:id="line4" ulx="48" uly="298" lrx="916" lry="351"/>
+            <zone xml:id="line5" ulx="43" uly="336" lrx="942" lry="392"/>
+            <zone xml:id="line6" ulx="45" uly="390" lrx="944" lry="432"/>
+            <zone xml:id="line7" ulx="47" uly="436" lrx="941" lry="499"/>
+            <zone xml:id="line8" ulx="48" uly="478" lrx="901" lry="546"/>
+            <zone xml:id="line9" ulx="49" uly="518" lrx="947" lry="584"/>
+            <zone xml:id="line10" ulx="45" uly="571" lrx="946" lry="636"/>
+            <zone xml:id="line11" ulx="45" uly="626" lrx="916" lry="682"/>
+            <zone xml:id="line12" ulx="43" uly="660" lrx="933" lry="712"/>
+            <zone xml:id="line13" ulx="42" uly="717" lrx="914" lry="778"/>
+            <zone xml:id="line14" ulx="43" uly="762" lrx="933" lry="815"/>
+            <zone xml:id="line15" ulx="47" uly="801" lrx="924" lry="854"/>
+            <zone xml:id="line16" ulx="45" uly="855" lrx="946" lry="924"/>
+            <zone xml:id="line17" ulx="49" uly="907" lrx="936" lry="959"/>
+            <zone xml:id="line18" ulx="43" uly="941" lrx="914" lry="993"/>
+            <zone xml:id="line19" ulx="48" uly="998" lrx="926" lry="1048"/>
+            <zone xml:id="line20" ulx="45" uly="1034" lrx="915" lry="1099"/>
+            <zone xml:id="line21" ulx="43" uly="1096" lrx="929" lry="1143"/>
+            <zone xml:id="line22" ulx="37" uly="1138" lrx="936" lry="1179"/>
+            
+            
+        </surface>
+        <surface xml:id="facs_2">
+        <graphic url="Lincoln_image_2.png" width="950px" height="1158px"/>
+            <zone xml:id="line23" ulx="25" uly="51" lrx="837" lry="107"/>
+            <zone xml:id="line24" ulx="35" uly="99" lrx="866" lry="148"/>
+            <zone xml:id="line25" ulx="39" uly="136" lrx="888" lry="206"/>
+            <zone xml:id="line26" ulx="25" uly="176" lrx="893" lry="226"/>
+            <zone xml:id="line27" ulx="34" uly="226" lrx="875" lry="291"/>
+            <zone xml:id="line28" ulx="32" uly="263" lrx="851" lry="337"/>
+            <zone xml:id="line29" ulx="51" uly="315" lrx="905" lry="386"/>
+            <zone xml:id="line30" ulx="36" uly="363" lrx="324" lry="427"/>
+            <zone xml:id="line31" ulx="43" uly="395" lrx="877" lry="467"/>
+            <zone xml:id="line32" ulx="49" uly="452" lrx="874" lry="506"/>
+            <zone xml:id="line33" ulx="39" uly="490" lrx="890" lry="543"/>
+            <zone xml:id="line34" ulx="43" uly="535" lrx="877" lry="601"/>
+            <zone xml:id="line35" ulx="40" uly="581" lrx="879" lry="658"/>
+            <zone xml:id="line36" ulx="38" uly="634" lrx="900" lry="679"/>
+            <zone xml:id="line37" ulx="43" uly="674" lrx="911" lry="739"/>
+            <zone xml:id="line38" ulx="52" uly="725" lrx="903" lry="784"/>
+            <zone xml:id="line39" ulx="51" uly="763" lrx="880" lry="815"/>
+            <zone xml:id="line40" ulx="58" uly="816" lrx="524" lry="876"/>
+            <zone xml:id="line41" ulx="55" uly="855" lrx="871" lry="917"/>
+            <zone xml:id="line42" ulx="49" uly="894" lrx="898" lry="952"/>
+            <zone xml:id="line43" ulx="49" uly="941" lrx="889" lry="1020"/>
+            <zone xml:id="line44" ulx="51" uly="981" lrx="872" lry="1060"/>
+            <zone xml:id="line45" ulx="45" uly="1042" lrx="898" lry="1103"/>
+            <zone xml:id="line46" ulx="44" uly="1078" lrx="893" lry="1127"/>
+            
+        </surface>
+        <surface xml:id="facs_3">
+            <graphic url="Lincoln_image_3.png" width="816px" height="1008px"/>
+            <zone xml:id="line47" ulx="49" uly="0" lrx="259" lry="90"/>
+            <zone xml:id="line48" ulx="336" uly="0" lrx="627" lry="102"/>
+            <zone xml:id="line49" ulx="529" uly="73" lrx="685" lry="137"/>
+            
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <head>1. Letter from Abraham Lincoln to William H. Herndon</head>
+                <!-- Page 1 -->
+                <pb facs="#facs_1" n="1"/>
+                <p>
+                    <placeName ref="#Washington">Washington</placeName>,<lb/>
+                    <date when="1848-07-10">July 10, 1848</date>
+                </p>
+                <pb></pb>
+                <p>
+                    Dear <persName ref="#Herndon">William</persName>,
+                </p>
+               
+                <p>
+                    <lb facs="#line3"/>Your letter covering the newspaper 
+                    <lb facs="#line4"/>slips was received last night - The subject of that
+                    <lb facs="#line5"/>letter is exceedingly painful to me; and I can not
+                    <lb facs="#line6"/>but think there is some mistake in your impression
+                    <lb facs="#line7"/>of the motives of the old men - I suppose I am
+                    <lb facs="#line8"/>now one of the old men - and I declare on my
+                    <lb facs="#line9"/>veracity, which I think is good with you, that noth-
+                    <lb facs="#line10"/>ing could afford me more satisfaction than to learn
+                    <lb facs="#line11"/>that you and other of my young friends at
+                    <lb facs="#line12"/>home, were doing battle in the contest and en-
+                    <lb facs="#line13"/>dearing themselves to the people, and taking a
+                    <lb facs="#line14"/>stand far above any I have ever been able to
+                    <lb facs="#line15"/>reach, in their admiration. I can not conceive
+                    <lb facs="#line16"/>that other old men feel differently - Of course I can
+                    <lb facs="#line17"/>not demonstrate what I say, but I was young once,
+                    <lb facs="#line18"/>and I am sure I was never ungenerously thrust
+                    <lb facs="#line19"/>back- I hardly know what to say - The way for
+                    <lb facs="#line20"/>a young man to rise, is to improve himself every
+                    <lb facs="#line21"/>way he can, never suspecting that any body wishes
+                    <lb facs="#line22"/>o hinder him. Allow me to assure you, that sus-
+                </p>
+                <pb></pb>
+                <p>
+                    <!-- Page 2 -->
+                    <pb facs="#facs_2" n="2"/>
+                   
+                    <lb facs="#line23"/>picion and jealousy never did help any man
+                    <lb facs="#line24"/>in any situation – There may sometimes be ungenerous
+                    <lb facs="#line25"/>attempts to keep a young man down; and they will
+                    <lb facs="#line26"/>succeed too, if he allows his mind to be diverted
+                    <lb facs="#line27"/>from its true channel to brood over the attempted in-
+                    <lb facs="#line28"/>jury - Cast about, and see if this feeling
+                    <lb facs="#line29"/>has not injured every person you have ever known
+                    <lb facs="#line30"/>to fall into it-
+                    <lb facs="#line31"/>Now, in what I have said, I am sure you will
+                    <lb facs="#line32"/>suspect nothing but sincere friendship - I would
+                    <lb facs="#line33"/>save you from a fatal error- You have been a
+                    <lb facs="#line34"/>laborious, studious young man - You are far better
+                    <lb facs="#line35"/>informed on almost all subjects than I have ever
+                    <lb facs="#line36"/>been. You can not fail in any laudable object,
+                    <lb facs="#line37"/>unless you allow your mind to be improperly directed-
+                    <lb facs="#line38"/>I have some the advantage of you in the world's
+                    <lb facs="#line39"/>experience, merely by being older, and it is this
+                    <lb facs="#line40"/>that induces me to advise-
+                    <lb facs="#line41"/>You still seem to be a little mistaken about
+                    <lb facs="#line42"/>the Congressional Globe and Appendix – They con-
+                    <lb facs="#line43"/>tain all of the speeches that are published in
+                    <lb facs="#line44"/>any way- My speech, &amp; <persName ref="#Herndon"> Dayton's </persName> speech, which
+                    <lb facs="#line45"/>you say you got in pamphlet form, are both,
+                    <lb facs="#line46"/>word for word, in the Appendix - I repeat again
+                    </p>
+                    <pb facs="#facs_3" n="3"/>
+                    <p>
+                     
+               
+                        <!-- Page 3 -->
+                        <pb facs="#facs_3" n="3"/>
+                        <lb></lb>
+                     all are there.
+                    </p>
+                <pb></pb>
+                    <p>
+                        Your friend, as ever,
+                    </p>
+                    <p>
+                        <persName ref="#Lincoln">A. Lincoln</persName>
+                    </p>
+            </div>
+        </body>
+    </text>
+</TEI>
